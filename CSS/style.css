@@ -1,0 +1,34 @@
+body{
+    background-color: grey;
+}
+#divHead{
+    background-image: url(/Images/Trees.jpg);
+    width: 300px;
+    opacity: 0.8;
+    z-index: -1;
+}
+
+#head{
+    color: white;
+    text-shadow:2px 2px 4px black;
+    z-index: 1;
+}
+
+#sortButt{
+    border-radius: 12px;
+    border: 2px solid black;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 1)
+}
+
+#addButt{
+    border-radius: 12px;
+    border: 2px solid black;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 1)
+}
+
+#input{
+    border: 2px solid black;
+    border-radius: 5px;
+    /* box-shadow: 0 2px 4px rgba(0, 0, 0, 1) */
+}
+
